@@ -586,7 +586,7 @@
       ],
       "correct": 2,
       "explanation": "विटामिन A की कमी से रात में कम दिखाई देता है, जिसे रतौंधी कहते हैं।",
-      "posted": false
+      "posted": true
     },
     {
       "question": "दाब (Pressure) की SI इकाई क्या है?",

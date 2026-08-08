@@ -1486,7 +1486,7 @@
       ],
       "correct": 0,
       "explanation": "CRR कुल जमा का वह प्रतिशत है जो वाणिज्यिक बैंकों को नकद के रूप में भारतीय रिजर्व बैंक (RBI) के पास रखना होता है।",
-      "posted": false
+      "posted": true
     },
     {
       "question": "भुगतान संतुलन (Balance of Payments) के 'चालू खाते' (Current Account) में किसे शामिल नहीं किया जाता?",

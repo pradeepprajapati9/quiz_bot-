@@ -1522,7 +1522,7 @@
       ],
       "correct": 1,
       "explanation": "GNP में से पूंजीगत परिसंपत्तियों के मूल्यह्रास (Depreciation) को घटाने पर शुद्ध राष्ट्रीय उत्पाद (NNP) प्राप्त होता है।",
-      "posted": false
+      "posted": true
     },
     {
       "question": "भारतीय रिजर्व बैंक की 'खुले बाजार की कार्रवाइयों' (Open Market Operations) का क्या अर्थ है?",

@@ -1534,7 +1534,7 @@
       ],
       "correct": 1,
       "explanation": "RBI बाजार में तरलता (Liquidity) को नियंत्रित करने के लिए सरकारी प्रतिभूतियों का क्रय-विक्रय करता है।",
-      "posted": false
+      "posted": true
     },
     {
       "question": "अर्थशास्त्र में 'अवसर लागत' (Opportunity Cost) अवधारणा का क्या अर्थ है?",
